@@ -11,11 +11,8 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=martini
-device.name2=mt2110
-device.name3=mt2111
-device.name4=MT2110
-device.name5=MT2111
-device.name6=OnePlus9RT
+device.name2=OP5154L1
+device.name3=OnePlus9RT
 supported.versions= 13
 supported.patchlevels=
 '; } # end properties
