@@ -4,17 +4,15 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Install KernelSU for Oneplus 9RT by natsumerinchan @ Github
-do.devicecheck=1
+kernel.string=Install KernelSU for QRD8350 by snnbyyds @ Github
+do.devicecheck=0
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=martini
-device.name2=OnePlus9RT
-device.name3=OP5154L1
-device.name4=OP5155L1
-supported.versions= 13
+device.name1=lahaina
+device.name2=
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
